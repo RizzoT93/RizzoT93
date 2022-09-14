@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C511BAQFnmyqS8egSCg/company-background_10000/0/1569954163558?e=2159024400&v=beta&t=_bePeXQh9_IlMnOKQbPigg0d_ksAG5JA-vjfOtN7X08)](https://github.com/RizzoT93)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFKIxh-Lrbi5pIlFXRbiA-HG9ZJsL6ggTtzqUDopEs14l1XGyKHC3wjHVdEwXv42rcQ&usqp=CAU](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Ffull-stack-developer-flat-illustration-suitable-web-banners-infographics-book-social-media-other-graphic-assets_210682-78.jpg&f=1&nofb=1))](https://github.com/RizzoT93)
 
 
 <h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
