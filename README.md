@@ -1,3 +1,4 @@
+<img src="https://github.com/RizzoT93/RizzoT93/blob/main/Globe%20Gadgets%20SEEK%20Cover%20Image.png" alt="banner that says Tais - software developer">
 <h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
 <h3 align="center">Full Stack Web Developer!</h3>
 
