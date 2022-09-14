@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C511BAQFnmyqS8egSCg/company-background_10000/0/1569954163558?e=2159024400&v=beta&t=_bePeXQh9_IlMnOKQbPigg0d_ksAG5JA-vjfOtN7X08)](https://github.com/RizzoT93)
 
 
 <h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
