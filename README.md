@@ -1,11 +1,8 @@
 ### Hi there 👋
 
+
 <h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
-<h3 align="center">I am a Full Stack Web Developer!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizzot93&label=Profile%20views&color=0e75b6&style=flat" alt="rizzot93" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizzot93" alt="rizzot93" /></a> </p>
+<h3 align="center">Full Stack Web Developer!</h3>
 
 - 🔭 I’m currently working on [Booklub](http://www.thebooklub.com)
 
@@ -15,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tais-rizzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tais-rizzo/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tais-rizzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tais-rizzo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizzot93&show_icons=true&locale=en" alt="rizzot93" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizzot93&" alt="rizzot93" /></p>
-
-
