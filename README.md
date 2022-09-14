@@ -1,6 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFLMEgml28/FY2bZqtweSPPfUomOAAQkQ/view?utm_content=DAFLMEgml28&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/RizzoT93)
-
-
 <h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
 <h3 align="center">Full Stack Web Developer!</h3>
 
