@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
-<h3 align="center">Full Stack Web Developer!</h3>
+<h1 align="center">Hi, I'm Tais Rizzo 👩🏻‍💻</h1>
+<h3 align="center">Full Stack Developer!</h3>
 
-- 🔭 I’m first project [Booklub](http://www.thebooklub.com)
+- 🔭 This is my first project [Booklub](http://www.thebooklub.com)
 
-- 🌱 I’m continously learning
+- 🌱 I’m continously learning software development & data analytics
 
 - 📫 How to reach me **rizzotais@gmail.com**
 
