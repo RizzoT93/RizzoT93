@@ -1,10 +1,9 @@
-<img src="https://github.com/RizzoT93/RizzoT93/blob/main/Globe%20Gadgets%20SEEK%20Cover%20Image.png" alt="banner that says Tais - software developer">
 <h1 align="center">Hi 👋, I'm Tais Rizzo</h1>
 <h3 align="center">Full Stack Web Developer!</h3>
 
-- 🔭 I’m currently working on [Booklub](http://www.thebooklub.com)
+- 🔭 I’m first project [Booklub](http://www.thebooklub.com)
 
-- 🌱 I’m continously learning **Ruby on Rails**
+- 🌱 I’m continously learning
 
 - 📫 How to reach me **rizzotais@gmail.com**
 
