@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tais Rizzo 👩🏻‍💻</h1>
+<h1 align="center">Hi, I'm Tais 👩🏻‍💻</h1>
 <h3 align="center">Full Stack Developer!</h3>
 
 - 🔭 This is my first project [Booklub](http://www.thebooklub.com)
